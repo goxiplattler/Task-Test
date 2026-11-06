@@ -2,7 +2,7 @@
 
 **App:** Node-RED Tasks Test
 **Verantwortlicher:** christian goger
-**Kontakt:** christan.goger@gmail.com
+**Kontakt:** christian.goger@gmail.com
 **Stand:** 06.11.2026
 
 ## Zweck der Anwendung
@@ -30,4 +30,4 @@ Der Zugriff kann jederzeit unter [myaccount.google.com/permissions](https://myac
 
 ## Kontakt
 
-Bei Fragen zum Datenschutz wende dich an: christan.goger@gmail.com
+Bei Fragen zum Datenschutz wende dich an: christian.goger@gmail.com
